@@ -1,7 +1,6 @@
 # PSRayTracer
-PostScript Tiny Ray Tracer
 
-This repo contains the original PostScript tiny ray tracer by Takashi Hayakawa, which won 1st prize in the PostScript obfuscation contest in 1993.
+This repo contains the original PostScript tiny ray tracer by Takashi Hayakawa, which won 1st prize in the [PostScript obfuscation contest](https://stuff.mit.edu/afs/sipb/contrib/postscript/obfuscated-1993/) in 1993.
 
 32 years later, I've decided to analyze and improve Hayakawa's obfuscation and minimization techniques.
 
